@@ -8,6 +8,8 @@ These two libraries were the ones I imported in order to work with my program. I
 ## Functions 
 I used functions such as .head(), .tail(), .describe(), to get a better review of the data. For example, unisex.head() will show a review of the top 5 most common unisex names in the list, while unisex.tail() will show the last 5 most common unisex names in the list. I also used other functions to build graphs, histograms, and show the correlation between the values in the list. 
 ## User Interaction
-For the User Interaction, I built if and else functions to test if the name entered by the user was on the list or the top 20. If the name was found, then the program will output the statistics, and take a prediction about the gender of the child based on these statistics. 
+For the User Interaction, I built if and else functions to test if the name entered by the user was on the list or the top 20. If the name was found, then the program will output the statistics, and take a prediction about the gender of the child based on these statistics.
+## Decision Tree
+![](/Decision%20Tree%20image.png) 
 ## Conclusion
 In conclusion, the program used basic functions that can be found in the imported libraries. After looking at the statistics, I found out that most males unisex names had a higher probability of being commonly used in America. As a result, if you have a child and most likely you want to choose an unisex name, then the most common one will be Riley. Please remember that this is just a program, and I don't choose your child's name to be male or female. I just analyze it! Thank you for using Un1s3x Nam35 program! :)
