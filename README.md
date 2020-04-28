@@ -1,4 +1,4 @@
-![](/unisex-names.jpg, width=50, length=100)
+![](/unisex-names.jpg)
 # Are You Tired of Not Knowing If Your Name is Male or Female?
 Then you have come to the right place. I mean, why trying to figure it out by yourself, when you can have someone else do it for you. Un1s3x Nam35 is a program built by Diomedes Suero, based on statistics by FiveThirtyEight. But, it is not only about boring stats, but also has an user interaction. The program shows a linear regression of the most common unisex names in America, ranking from 1-919. Thus, the program will use such statistics like mean, male share, standard deviation, female share, and gap between both males and female share, in order to determine the probability that your child's name is among the top 20 or even on the list. I mean, wouldn't you like to know? EXACTLY!, but before you look at my program make sure to look at the quick overview below. 
 ## Libraries Used By The Program 
